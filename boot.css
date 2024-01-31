@@ -1,0 +1,47 @@
+.body{
+    background-color:beige;
+}
+
+.column1{
+    width:40%;
+    
+}
+
+.navigation{
+    background-color: darkgrey;
+
+}
+
+.menu{
+    font-weight: bold;
+    font-color: blue !important;   
+}
+
+.layout{
+    margin-top: 1% !important;
+}
+.tbl{
+   background-color:bisque;
+    width:80%;
+    margin-left: 10%;
+}
+
+/* .text{
+    margin-left:20%;
+
+} */
+.pgn{
+    align-tracks:inherit;
+    margin-left:60%;
+    align-items: center;
+}
+.img{
+    width:100%;
+}
+.button1{
+    text-align:center;
+}
+.cara{
+    height:400px;
+    width:300px;
+}
